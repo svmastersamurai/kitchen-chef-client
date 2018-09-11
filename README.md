@@ -4,7 +4,7 @@
 
 In our environment cookbook developers have to support mutliple platforms. In lieu
 of having a local checkout of development cookbooks most engineers leverage our
-(taste-tester tool)[https://github.com/facebook/taste-tester] to upload their changes
+[taste-tester tool](https://github.com/facebook/taste-tester) to upload their changes
 and then converge against their development server.
 
 I seem to recall older versions of `test-kitchen` having the ability to converge
