@@ -20,6 +20,6 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'test-kitchen', '~> 1.23'
 
   spec.add_development_dependency 'rspec', '~> 3.2'
-  spec.add_development_dependency 'rubocop', '~> 0.37', '>= 0.37.1'
+  spec.add_development_dependency 'rubocop', '~> 0.59'
 end
 
